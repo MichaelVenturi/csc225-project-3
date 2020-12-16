@@ -1,0 +1,11 @@
+.hover {
+  cursor: pointer;
+}
+.hover:hover {
+  text-decoration: underline;
+}
+
+.list-style {
+  list-style-type: none;
+  padding: 0;
+}
